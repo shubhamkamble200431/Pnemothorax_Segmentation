@@ -1,0 +1,32 @@
+# Dataset
+dataset_root: dataset
+images_dir: dataset/png_images
+masks_dir: dataset/png_masks
+
+# Image settings
+img_size: 256
+in_channels: 3
+num_classes: 1
+
+# Training
+batch_size: 8
+num_epochs: 10
+learning_rate: 0.0001
+val_split: 0.2
+
+# Hardware
+device: auto   # auto | cpu | cuda
+
+# Thresholding
+threshold: 0.5
+
+# Models to train
+train_unet: true
+train_unetpp: true
+train_manet: true
+
+# Checkpoints
+checkpoint_dir: checkpoints
+
+# Outputs
+output_dir: outputs
