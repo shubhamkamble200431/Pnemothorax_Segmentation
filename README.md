@@ -166,9 +166,9 @@ results/*/png/
 
 Example figures:
 
-![Best Case](results/M4_M5_M6/plots/best_case.png)
-![Median Case](results/M4_M5_M6/plots/median_case.png)
-![Worst Case](results/M4_M5_M6/plots/worst_case.png)
+![Best Case](results/M4_M5_M6/png/comparison_best.png)
+![Median Case](results/M4_M5_M6/png/comparison_med.png)
+![Worst Case](results/M4_M5_M6/png/comparison_worst.png)
 
 ---
 
@@ -180,9 +180,9 @@ Saved under:
 results/severity/png/
 ```
 
-![Severity Example 1](results/severity/png/severity_1.png)
-![Severity Example 2](results/severity/png/severity_2.png)
-![Severity Example 3](results/severity/png/severity_3.png)
+![Severity Example 1](results/severity/png/high_sev.jpg)
+![Severity Example 2](results/severity/png/low_sev.jpg)
+![Severity Example 3](results/severity/png/no_sev.jpg)
 
 ---
 
@@ -192,7 +192,7 @@ results/severity/png/
 results/valid_overlays/
 ```
 
-![Overlay Example](results/valid_overlays/sample_overlay.png)
+![Overlay Example](results/valid_overlays/high.jpg)
 
 ---
 
